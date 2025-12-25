@@ -20,7 +20,6 @@ const SUBJECTS = [
   "Biology",
   "Physics",
   "History",
-  "Uzbek language",
   "Russian language",
   "Turkish language",
   "Korean language",
