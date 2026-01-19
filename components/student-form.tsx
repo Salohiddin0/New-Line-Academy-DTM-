@@ -22,6 +22,7 @@ const GRADES = ['1', '2', '3', '4', '5', '6', '7', '8', '9', 'Abiturient']
 const SUBJECTS = [
   'Matematika',
   'Ingliz tili',
+  'Ona tili',
   'Kimyo',
   'Biologiya',
   'Fizika',
@@ -30,7 +31,6 @@ const SUBJECTS = [
   'Turk tili',
   'Koreys tili',
   'Huquq',
-  'Ona tili',
 ]
 
 interface StudentFormProps {
