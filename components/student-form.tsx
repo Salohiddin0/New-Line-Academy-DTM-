@@ -29,7 +29,8 @@ const SUBJECTS = [
   'Rus tili',
   'Turk tili',
   'Koreys tili',
-  'Huquq'
+  'Huquq',
+  'Ona tili',
 ]
 
 interface StudentFormProps {
