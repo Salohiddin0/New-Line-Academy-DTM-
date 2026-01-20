@@ -29,6 +29,7 @@ const SUBJECTS = [
   'Tarix',
   'Rus tili',
   'Turk tili',
+  'Nemis tili',
   'Koreys tili',
   'Huquq',
 ]
