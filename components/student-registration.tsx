@@ -50,7 +50,7 @@ export function StudentRegistration () {
       ...student,
       id: crypto.randomUUID(),
       isPaid: false,
-      debt: 10000
+      debt: 15000
     }
     setStudents(prev => [...prev, newStudent])
   }
